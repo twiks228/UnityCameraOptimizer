@@ -144,7 +144,11 @@ The `CameraOptimizer` component exposes several configurable sections in the Uni
 - **Performance Issues**: Increase `Update Interval` or disable `Use Multi Ray Occlusion` for large scenes.
 - **Gizmos Not Visible**: Ensure gizmo options are enabled in **Gizmo Settings** and the camera is selected in the Scene view.
 
-## Contributing
-Feel free to fork this repository, make improvements, and submit pull requests. Suggestions for new features or bug reports are welcome via GitHub Issues.
+## Screenshots
+- ![image](https://github.com/user-attachments/assets/6c772d68-240a-4ada-8a74-cca6001022af)
+- ![image](https://github.com/user-attachments/assets/bc611cad-b1cd-4311-9564-8ee7a9caf1ad)
+- ![image](https://github.com/user-attachments/assets/6a8b7f58-4a26-40a0-a3f1-8cf193b46169)
+
+
 
 
