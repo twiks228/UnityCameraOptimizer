@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 663834164c6a04740aaa1b778249ce7e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 189884
+  packageName: Modular First Person Controller
+  packageVersion: 1.0.1
+  assetPath: Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype
+    Grid/Prototype_512x512_Blue1.mat
+  uploadId: 428261
