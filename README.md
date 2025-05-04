@@ -147,5 +147,4 @@ The `CameraOptimizer` component exposes several configurable sections in the Uni
 ## Contributing
 Feel free to fork this repository, make improvements, and submit pull requests. Suggestions for new features or bug reports are welcome via GitHub Issues.
 
-## License
-This script is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
