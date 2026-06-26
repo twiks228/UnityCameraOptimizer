@@ -1,4 +1,6 @@
 # CameraOptimizer Documentation
+<img width="844" height="433" alt="{9B614D53-3391-4D15-9D6E-5D42FEB9CB29}" src="https://github.com/user-attachments/assets/bdb87064-b0d0-4fc1-988b-eed812e8c52b" />
+
 
 ## Overview
 `CameraOptimizer` is a Unity script designed to optimize rendering performance by implementing advanced culling, Level of Detail (LOD) management, occlusion culling, and fade-in effects for objects within a camera's view. It is ideal for large-scale Unity scenes where rendering performance is critical, such as open-world games or complex simulations.
